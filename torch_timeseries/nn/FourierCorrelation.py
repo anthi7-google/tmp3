@@ -1,6 +1,3 @@
-# coding=utf-8
-# author=maziqing
-# email=maziqing.mzq@alibaba-inc.com
 
 import numpy as np
 import torch
